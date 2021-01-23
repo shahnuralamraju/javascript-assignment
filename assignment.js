@@ -1,9 +1,3 @@
-/**github repository link:
-  
-
-
- */
-
 
 // Here are the starting point of problem-1: kilometerToMeter.
 
